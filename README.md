@@ -18,3 +18,6 @@ Simulation Applications
 
 #####Hollow test
 prb_huevos.java
+
+#####Kolgomorov Method
+Kolgomorov.java
