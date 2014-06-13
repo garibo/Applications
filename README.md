@@ -1,7 +1,8 @@
 Graphication Applications
 ===========
 
-#####Window-Viewport
+#####Window-Viewport with Reconstryction Algorithm
+#####Window-Viewport with Clipping
 #####Cube3D with Point3D
-#####Bresenham ALgorithm
+#####Bresenham Algorithm
 #####BMP to Binary
