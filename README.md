@@ -8,5 +8,6 @@ Clipping.cs
 #####Cube3D with Point3D
 Cubo3D.cs & Math3D.cs
 #####Bresenham Algorithm
+Bresenham.cs
 #####BMP to Binary
 Binary.cs
