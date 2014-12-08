@@ -1,7 +1,4 @@
-
-//Cubo 3D include Math3D.cs
-
-using System;
+﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
