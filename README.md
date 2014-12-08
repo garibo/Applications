@@ -1,6 +1,6 @@
 ## Desarrollo de Aplicaciones
 
-** Autor: ** Javier Diaz Chamorro
+**Autor:** Javier Diaz Chamorro
 ######Instituto Tecnológico de Lázaro Cárdenas
 ######Ingeniería en Sistemas Computacionales
 
@@ -16,10 +16,10 @@ Es un algoritmo preciso para la generación de líneas de rastreo que convierte 
 
 ![Algoritmo de Bresenham](thumbs/bresenham.jpg)
 
-** Aplicación: ** Algoritmo de Bresenham
-** IDE: ** Visual Studio 2013
-** Versión: ** 1.2
-** Lenguaje: ** C#
+1. **Aplicación:** Algoritmo de Bresenham
+2. **IDE:** Visual Studio 2013
+3. **Versión:** 1.2
+4. **Lenguaje:** C#
 
 _ _ _
 
@@ -30,7 +30,7 @@ Esta aplicación realiza la conversión de un archivo en Mapa de Bits (BMP) y lo
 
 ![Bmp a Binario](thumbs/binary.jpg)
 
-** Aplicación: ** Archivos BMP a Binarios
-** IDE: ** Visual Studio 2013
-** Versión: ** 1.2
-** Lenguaje: ** C#
+1. **Aplicación:** Archivos BMP a Binarios
+2. **IDE:** Visual Studio 2013
+3. **Versión:** 2.0
+4. **Lenguaje:** C#
