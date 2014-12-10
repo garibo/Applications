@@ -16,10 +16,10 @@ Es un algoritmo preciso para la generación de líneas de rastreo que convierte 
 
 ![Algoritmo de Bresenham](thumbs/bresenham.jpg)
 
-1. **Aplicación:** Algoritmo de Bresenham
-2. **IDE:** Visual Studio 2013
-3. **Versión:** 1.2
-4. **Lenguaje:** C#
+- **Aplicación:** Algoritmo de Bresenham
+- **IDE:** Visual Studio 2013
+- **Versión:** 1.2
+- **Lenguaje:** C#
 
 _ _ _
 
@@ -30,7 +30,17 @@ Esta aplicación realiza la conversión de un archivo en Mapa de Bits (BMP) y lo
 
 ![Bmp a Binario](thumbs/binary.jpg)
 
-1. **Aplicación:** Archivos BMP a Binarios
-2. **IDE:** Visual Studio 2013
-3. **Versión:** 2.0
-4. **Lenguaje:** C#
+- **Aplicación:** Archivos BMP a Binarios
+- **IDE:** Visual Studio 2013
+- **Versión:** 2.0
+- **Lenguaje:** C#
+
+_ _ _
+
+######Rotación de Figura en 2D
+Esta aplicación traza una figura con 3 puntos que se le son ingresados en el panel de puntos, para posteriomente generar su Baricentro en el cuál girará según los grados que el usuario le indique. Con lo cuál la aplicación generara una figura trazada ya con su respectiva rotación en otro color.
+
+- **Aplicación:** Rotación de Figura en 2D
+- **IDE:** Visual Studio 2013
+- **Versión:** 1.0
+- **Lenguaje:** C#
